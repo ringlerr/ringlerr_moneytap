@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    }
+]

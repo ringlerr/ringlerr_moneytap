@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/right_ch.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/right_ch.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_launcher_background.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/not_interested.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/not_interested.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/sms.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/sms.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_rounded_green.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/btn_rounded_green.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/whatsapp.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/whatsapp.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ais_pay.jpeg",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ais_pay.jpeg"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_restore_black_24dp.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_restore_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/chat.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/chat.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_close_black_24dp.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_radio_on_mtrl.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_reply_black_24dp.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_reply_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/property_imgc.jpg",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/property_imgc.jpg"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_send_black_24dp.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_send_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ais_pay_mini.jpeg",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ais_pay_mini.jpeg"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/housing.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/housing.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_link.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_link.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/berbagiweb.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/berbagiweb.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ch_right.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ch_right.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/star_rating_5_of_5.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/star_rating_5_of_5.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_rounded_red.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/btn_rounded_red.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/starts.jpg",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/starts.jpg"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_thumb_down_black_24dp.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_thumb_down_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/star_rating_1_of_5.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/star_rating_1_of_5.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/customborder.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/customborder.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ais_online_store.jpg",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ais_online_store.jpg"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_radio_off_mtrl.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_person_black_24dp.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_message_black_24dp.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_message_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/5fd708d3b415ac75b232ed49dc9b8cac/appcompat-resources-1.1.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ais_promo.jpg",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ais_promo.jpg"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/verified.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/verified.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/left_ch.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/left_ch.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/payment.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/payment.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_close.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/paynow.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/paynow.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_btn_check_material_anim.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_btn_radio_material_anim.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/calender.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/calender.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_call_black_24dp.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_call_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/facebook_messenger.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/facebook_messenger.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/ic_phone_schedule_black_24dp.xml",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/ic_phone_schedule_black_24dp.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/line.png",
+        "source": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/res/drawable/line.png"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    }
+]

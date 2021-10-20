@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:1-110:12
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:1-110:12
+	package
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:1-110:12
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:1-110:12
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.INTERNET
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:9:5-108:19
+activity#com.ringlerr.callplus.InstaActivity
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:10:9-16:65
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:14:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:15:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:13:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:11:13-42
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:12:13-41
+activity#com.ringlerr.callplus.NewDialogActivity
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:17:9-23:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:21:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:22:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:20:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:23:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:18:13-46
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:19:13-41
+activity#com.ringlerr.callplus.CusADialogActivity
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:24:9-30:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:28:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:29:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:27:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:25:13-47
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:26:13-41
+activity#com.ringlerr.callplus.CusBDialogActivity
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:31:9-37:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:35:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:36:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:34:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:37:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:32:13-47
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:33:13-41
+activity#com.ringlerr.callplus.CallBackDialogActivity
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:38:9-44:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:42:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:43:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:41:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:44:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:39:13-51
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:40:13-41
+activity#com.ringlerr.callplus.SlideDialogActivity
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:45:9-51:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:49:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:50:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:48:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:51:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:46:13-48
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:47:13-41
+activity#com.ringlerr.callplus.SlideDialogActivityTwo
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:52:9-58:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:56:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:57:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:55:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:58:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:53:13-51
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:54:13-41
+activity#com.ringlerr.callplus.SlideDialogActivityThree
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:59:9-65:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:63:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:64:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:62:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:65:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:60:13-53
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:61:13-41
+activity#com.ringlerr.callplus.SlideDialogActivityImage
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:66:9-72:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:70:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:71:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:69:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:72:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:67:13-53
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:68:13-41
+activity#com.ringlerr.callplus.SlideDialogActivityVideo
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:73:9-79:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:77:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:78:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:76:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:79:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:74:13-53
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:75:13-41
+receiver#com.ringlerr.callplus.NotificationReceiver
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:81:9-84:39
+	android:enabled
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:83:13-35
+	android:exported
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:82:13-49
+activity#com.ringlerr.callplus.DialogActivity
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:86:9-92:56
+	android:excludeFromRecents
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:90:13-46
+	android:resizeableActivity
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:91:13-46
+	android:documentLaunchMode
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:89:13-48
+	android:theme
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:92:13-53
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:87:13-43
+	android:allowEmbedded
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:88:13-41
+receiver#com.ringlerr.callplus.PhonecallReceiver
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:94:9-97:48
+	android:enabled
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:96:13-35
+	android:exported
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:97:13-36
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:95:13-67
+receiver#com.ringlerr.callplus.CallReceiver
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:100:9-107:20
+	android:enabled
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:100:69-91
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:100:19-68
+intent-filter#action:name:android.intent.action.PHONE_STATE
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:101:13-103:29
+action#android.intent.action.PHONE_STATE
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:102:17-76
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:102:25-73
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:104:13-106:29
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:105:17-82
+	android:name
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml:105:25-79
+uses-sdk
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+		ADDED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/src/main/AndroidManifest.xml

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

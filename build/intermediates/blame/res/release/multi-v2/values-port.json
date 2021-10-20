@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/res/merged/release/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/santanu/.gradle/caches/transforms-2/files-2.1/cfb2a647df0268b4d0e6a00a3db8b5fe/appcompat-1.1.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

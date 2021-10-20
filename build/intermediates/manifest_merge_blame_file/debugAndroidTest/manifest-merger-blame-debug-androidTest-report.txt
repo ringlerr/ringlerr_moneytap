@@ -1,0 +1,239 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ringlerr.callplus.test" >
+4
+5    <uses-sdk
+5-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:5:15-41
+7        android:targetSdkVersion="30" />
+7-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:11:5-15:76
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:11:22-76
+11        android:functionalTest="false"
+11-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:13:22-53
+13        android:label="Tests for com.ringlerr.callplus.test"
+13-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:15:22-74
+14        android:targetPackage="com.ringlerr.callplus.test" />
+14-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:12:22-72
+15
+16    <uses-permission android:name="android.permission.CALL_PHONE" />
+16-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-69
+16-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-66
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+17-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-64
+18    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+18-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+18-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-78
+19
+20    <application
+20-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:7:5-9:19
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.2.0] /home/santanu/.gradle/caches/transforms-2/files-2.1/cff19cbd3ef5099b4e77e762cb0ea9f0/core-1.2.0/AndroidManifest.xml:24:18-86
+22        android:debuggable="true" >
+22-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:7:18-43
+23        <uses-library android:name="android.test.runner" />
+23-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:8:9-60
+23-->/home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3937282185878657660.xml:8:23-57
+24
+25        <activity
+25-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-22:56
+26            android:name="com.ringlerr.callplus.InstaActivity"
+26-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-63
+27            android:allowEmbedded="true"
+27-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-41
+28            android:documentLaunchMode="always"
+28-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-48
+29            android:excludeFromRecents="true"
+29-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-46
+30            android:resizeableActivity="true"
+30-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-46
+31            android:theme="@style/Theme.Transparent" />
+31-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-53
+32        <activity
+32-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-29:56
+33            android:name="com.ringlerr.callplus.NewDialogActivity"
+33-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-67
+34            android:allowEmbedded="true"
+34-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-41
+35            android:documentLaunchMode="always"
+35-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-48
+36            android:excludeFromRecents="true"
+36-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-46
+37            android:resizeableActivity="true"
+37-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-46
+38            android:theme="@style/Theme.Transparent" />
+38-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-53
+39        <activity
+39-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:9-36:56
+40            android:name="com.ringlerr.callplus.CusADialogActivity"
+40-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-68
+41            android:allowEmbedded="true"
+41-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-41
+42            android:documentLaunchMode="always"
+42-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-48
+43            android:excludeFromRecents="true"
+43-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-46
+44            android:resizeableActivity="true"
+44-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-46
+45            android:theme="@style/Theme.Transparent" />
+45-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-53
+46        <activity
+46-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-43:56
+47            android:name="com.ringlerr.callplus.CusBDialogActivity"
+47-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-68
+48            android:allowEmbedded="true"
+48-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-41
+49            android:documentLaunchMode="always"
+49-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-48
+50            android:excludeFromRecents="true"
+50-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-46
+51            android:resizeableActivity="true"
+51-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-46
+52            android:theme="@style/Theme.Transparent" />
+52-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-53
+53        <activity
+53-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:9-50:56
+54            android:name="com.ringlerr.callplus.CallBackDialogActivity"
+54-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:13-72
+55            android:allowEmbedded="true"
+55-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-41
+56            android:documentLaunchMode="always"
+56-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-48
+57            android:excludeFromRecents="true"
+57-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-46
+58            android:resizeableActivity="true"
+58-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:13-46
+59            android:theme="@style/Theme.Transparent" />
+59-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-53
+60        <activity
+60-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:9-57:56
+61            android:name="com.ringlerr.callplus.SlideDialogActivity"
+61-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:13-69
+62            android:allowEmbedded="true"
+62-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:13-41
+63            android:documentLaunchMode="always"
+63-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:13-48
+64            android:excludeFromRecents="true"
+64-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:13-46
+65            android:resizeableActivity="true"
+65-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:13-46
+66            android:theme="@style/Theme.Transparent" />
+66-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-53
+67        <activity
+67-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:9-64:56
+68            android:name="com.ringlerr.callplus.SlideDialogActivityTwo"
+68-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-72
+69            android:allowEmbedded="true"
+69-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-41
+70            android:documentLaunchMode="always"
+70-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:13-48
+71            android:excludeFromRecents="true"
+71-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:13-46
+72            android:resizeableActivity="true"
+72-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:63:13-46
+73            android:theme="@style/Theme.Transparent" />
+73-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:13-53
+74        <activity
+74-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:9-71:56
+75            android:name="com.ringlerr.callplus.SlideDialogActivityThree"
+75-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:66:13-74
+76            android:allowEmbedded="true"
+76-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:13-41
+77            android:documentLaunchMode="always"
+77-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:13-48
+78            android:excludeFromRecents="true"
+78-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:13-46
+79            android:resizeableActivity="true"
+79-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-46
+80            android:theme="@style/Theme.Transparent" />
+80-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:13-53
+81        <activity
+81-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:9-78:56
+82            android:name="com.ringlerr.callplus.SlideDialogActivityImage"
+82-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-74
+83            android:allowEmbedded="true"
+83-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:13-41
+84            android:documentLaunchMode="always"
+84-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:13-48
+85            android:excludeFromRecents="true"
+85-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:13-46
+86            android:resizeableActivity="true"
+86-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:13-46
+87            android:theme="@style/Theme.Transparent" />
+87-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:13-53
+88        <activity
+88-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:79:9-85:56
+89            android:name="com.ringlerr.callplus.SlideDialogActivityVideo"
+89-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:80:13-74
+90            android:allowEmbedded="true"
+90-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:13-41
+91            android:documentLaunchMode="always"
+91-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:13-48
+92            android:excludeFromRecents="true"
+92-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:83:13-46
+93            android:resizeableActivity="true"
+93-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:84:13-46
+94            android:theme="@style/Theme.Transparent" />
+94-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:85:13-53
+95
+96        <receiver
+96-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:87:9-90:39
+97            android:name="com.ringlerr.callplus.NotificationReceiver"
+97-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:88:13-70
+98            android:enabled="true"
+98-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:89:13-35
+99            android:exported="true" />
+99-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:90:13-36
+100
+101        <activity
+101-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:92:9-98:56
+102            android:name="com.ringlerr.callplus.DialogActivity"
+102-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:93:13-64
+103            android:allowEmbedded="true"
+103-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:94:13-41
+104            android:documentLaunchMode="always"
+104-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:95:13-48
+105            android:excludeFromRecents="true"
+105-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:96:13-46
+106            android:resizeableActivity="true"
+106-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:97:13-46
+107            android:theme="@style/Theme.Transparent" />
+107-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:98:13-53
+108
+109        <receiver
+109-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:100:9-103:39
+110            android:name="com.ringlerr.callplus.PhonecallReceiver"
+110-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:101:13-67
+111            android:enabled="true"
+111-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:102:13-35
+112            android:exported="true" /> <!-- This part is inside the application -->
+112-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:103:13-36
+113        <receiver
+113-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:106:9-115:20
+114            android:name="com.ringlerr.callplus.CallReceiver"
+114-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:107:13-62
+115            android:enabled="true" >
+115-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:108:13-35
+116            <intent-filter>
+116-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:109:13-111:29
+117                <action android:name="android.intent.action.PHONE_STATE" />
+117-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:110:17-76
+117-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:110:25-73
+118            </intent-filter>
+119            <intent-filter>
+119-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:112:13-114:29
+120                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+120-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:113:17-82
+120-->[__tested_artifact__::ringlerrlibrary] /home/santanu/AndroidStudioProjects/JeevanSaathiCallupDemoSecond/ringlerrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:113:25-79
+121            </intent-filter>
+122        </receiver>
+123    </application>
+124
+125</manifest>
